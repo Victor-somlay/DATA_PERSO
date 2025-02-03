@@ -1,2 +1,8 @@
 Je vois ce que vous essayez de faire mais ça ne marche pas. 
+<<<<<<< HEAD
 2 lignes seulement 
+=======
+2 lignes seulement
+
+J'ajoute une ligne en plus depuis GitHub
+>>>>>>> 05d9f903410db097b3a1878950a5a9292025cc80
